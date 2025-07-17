@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSoft_VS_Projects\\CGPA_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD7CF0-4EF6-4561-B235-C73265F05153}|CGPA_Calculator\\CGPA_Calculator.vcxproj|D:\\MSoft_VS_Projects\\CGPA_Calculator\\CGPA_Calculator\\CGPA_Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5FD7CF0-4EF6-4561-B235-C73265F05153}|CGPA_Calculator\\CGPA_Calculator.vcxproj|solutionrelative:CGPA_Calculator\\CGPA_Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CGPA_Calculator.cpp",
+              "DocumentMoniker": "D:\\MSoft_VS_Projects\\CGPA_Calculator\\CGPA_Calculator\\CGPA_Calculator.cpp",
+              "RelativeDocumentMoniker": "CGPA_Calculator\\CGPA_Calculator.cpp",
+              "ToolTip": "D:\\MSoft_VS_Projects\\CGPA_Calculator\\CGPA_Calculator\\CGPA_Calculator.cpp",
+              "RelativeToolTip": "CGPA_Calculator\\CGPA_Calculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T07:04:04.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
